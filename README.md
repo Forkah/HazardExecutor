@@ -6,4 +6,4 @@ Hazard is the best level 7 executor, which includes unrestricted Lua and include
 
 
 !!!Important!!!
-If the Executor doesn't start, disable your anti-virus. It is hindering the Executor to boot up.
+If the Executor doesn't start, disable your anti-virus. It is hindering the Executor from booting up.
